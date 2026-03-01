@@ -10,8 +10,8 @@
 
 ## Current Projects
 
-- 🧪 https://github.com/montenegronyc/perstudio-openclaw
--  [valibjorn](https://github.com/montenegronyc/valibjorn) - Startup Validation Ecosystem — multi-agent business concept analyzer
+- 🦞 [perstudio-openclaw](https://github.com/montenegronyc/perstudio-openclaw) - AI image and video generation plugin for OpenClaw
+- 🧪 [valibjorn](https://github.com/montenegronyc/valibjorn) - Startup Validation Ecosystem — multi-agent business concept analyzer
 - 🖼️ [mj-timelapse](https://github.com/montenegronyc/mj-timelapse) - Download your Midjourney images by date. Browser console tool — zero install, zero dependencies
 - 🔮 [vedia](https://github.com/montenegronyc/vedia) - Comprehensive Vedic Astrology Reader with Swiss Ephemeris calculations
 - 🔄 [claude-flow](https://github.com/montenegronyc/claude-flow) - Branch of code-first swarm orchestration layer for Claude Code by @ruvnet
