@@ -24,7 +24,6 @@
 ## Private / In Progress
 
 - 🎬 **perstudio** - AI-powered creative studio pipeline (Python)
-- 🔊 **rew-analyzer** - Deep acoustic analysis of Room EQ Wizard measurement exports (Python)
 - 📧 **gmail-guard** - Email security and monitoring tools (JavaScript)
 - 🏠 **openclaw-setup** - OpenClaw configuration and setup (JavaScript)
 - 🤖 **claude-setup** - Claude Code environment bootstrapping (Shell)
