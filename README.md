@@ -10,6 +10,7 @@
 
 ## Current Projects
 
+- ☢️ [nukebread](https://github.com/montenegronyc/nukebread) - Claude MCP server for The Foundry's Nuke — AI-powered compositing assistant
 - 🦞 [perstudio-openclaw](https://github.com/montenegronyc/perstudio-openclaw) - AI image and video generation plugin for OpenClaw
 - 🧪 [valibjorn](https://github.com/montenegronyc/valibjorn) - Startup Validation Ecosystem — multi-agent business concept analyzer
 - 🖼️ [mj-timelapse](https://github.com/montenegronyc/mj-timelapse) - Download your Midjourney images by date. Browser console tool — zero install, zero dependencies
