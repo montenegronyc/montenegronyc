@@ -14,7 +14,7 @@
 - 🦞 [perstudio-openclaw](https://github.com/montenegronyc/perstudio-openclaw) - AI image and video generation plugin for OpenClaw
 - 🧪 [valibjorn](https://github.com/montenegronyc/valibjorn) - Startup Validation Ecosystem — multi-agent business concept analyzer
 - 🖼️ [mj-timelapse](https://github.com/montenegronyc/mj-timelapse) - Download your Midjourney images by date. Browser console tool — zero install, zero dependencies
-- 🔊 [rew-analyzer] (https://github.com/montenegronyc/rew-analyzer/) - Deep acoustic analysis of Room EQ Wizard measurement exports (Python)
+- 🔊 [rew-analyzer](https://github.com/montenegronyc/rew-analyzer/) - Deep acoustic analysis of Room EQ Wizard measurement exports (Python)
 - 🔮 [vedia](https://github.com/montenegronyc/vedia) - Comprehensive Vedic Astrology Reader with Swiss Ephemeris calculations
 - 🔄 [claude-flow](https://github.com/montenegronyc/claude-flow) - Branch of code-first swarm orchestration layer for Claude Code by @ruvnet
 - 🎨 [comfyrter](https://github.com/montenegronyc/comfyrter) - ComfyUI workflow manager and runner
